@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "stat_name": "active_seasons",
+      "value": 12,
+      "description": "Tổng số mùa vụ đang hoạt động"
+    },
+    {
+      "key": 2,
+      "stat_name": "total_farming_area",
+      "value": 2500,
+      "description": "Tổng diện tích đất canh tác (ha)"
+    },
+    {
+      "key": 3,
+      "stat_name": "estimated_yield",
+      "value": 18000,
+      "description": "Sản lượng dự kiến (tấn)"
+    },
+    {
+      "key": 4,
+      "stat_name": "quality_inspection_orders",
+      "value": 42,
+      "description": "Số đơn kiểm định chất lượng"
+    }
+  ]
+}

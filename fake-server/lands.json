@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Field A",
+    "area": 20.5,
+    "soilType": "Clay",
+    "status": "In Use",
+    "currentSeason": "Spring 2025",
+    "usageHistory": [
+      { "crop": "Rice", "fertilizer": "Urea", "pesticide": "None" }
+    ]
+  },
+  {
+    "name": "Field B",
+    "area": 15.0,
+    "soilType": "Sandy",
+    "status": "Under Maintenance",
+    "currentSeason": null,
+    "usageHistory": []
+  }
+]

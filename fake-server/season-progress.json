@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "key": 1,
+      "timestamp": "2025-01-01T00:00:00Z",
+      "progress": 10
+    },
+    {
+      "key": 2,
+      "timestamp": "2025-01-02T00:00:00Z",
+      "progress": 30
+    },
+    {
+      "key": 3,
+      "timestamp": "2025-01-03T00:00:00Z",
+      "progress": 50
+    },
+    {
+      "key": 4,
+      "timestamp": "2025-01-04T00:00:00Z",
+      "progress": 70
+    },
+    {
+      "key": 5,
+      "timestamp": "2025-01-05T00:00:00Z",
+      "progress": 100
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "available_quantity": 150.5,
+    "description": "High-quality organic compost made from plant materials and manure, perfect for all types of gardens",
+    "id": 1,
+    "image": "organic_compost_1.jpg",
+    "name": "Premium Organic Compost",
+    "status": "InStock",
+    "total_quantity": 200,
+    "type": "Organic",
+    "unit": "Bao 2kg"
+  },
+  {
+    "available_quantity": 0,
+    "description": "Balanced chemical fertilizer suitable for general purpose use, promotes overall plant growth",
+    "id": 2,
+    "image": "npk_15_15_15.jpg",
+    "name": "NPK 15-15-15",
+    "status": "OutStock",
+    "total_quantity": 500,
+    "type": "Chemical",
+    "unit": "Bao 3kg"
+  },
+  {
+    "available_quantity": 75.8,
+    "description": "Hybrid fertilizer combining organic materials with essential minerals",
+    "id": 3,
+    "image": "biomix_plus.jpg",
+    "name": "Bio-Mix Plus",
+    "status": "InStock",
+    "total_quantity": 100,
+    "type": "Mixed",
+    "unit": "Bao 2kg"
+  },
+  {
+    "available_quantity": 25,
+    "description": "High-nitrogen chemical fertilizer for leafy vegetables and grass",
+    "id": 4,
+    "image": "nitrogen_boost.jpg",
+    "name": "Nitrogen Boost",
+    "status": "InStock",
+    "total_quantity": 300,
+    "type": "Chemical",
+    "unit": "Bao 3kg"
+  },
+  {
+    "available_quantity": 0,
+    "description": "Pure organic fertilizer produced by earthworms, rich in nutrients and beneficial microorganisms",
+    "id": 5,
+    "image": "vermicompost.jpg",
+    "name": "Vermicompost",
+    "status": "UnActived",
+    "total_quantity": 150,
+    "type": "Organic",
+    "unit": "Bao 2kg"
+  }
+]

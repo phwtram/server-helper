@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Seedling Fertilizer",
+    "description": "A high-quality fertilizer for seedlings.",
+    "image": "https://songgianh.com.vn/upload/attachment/9635bo-60-mt.jpg",
+    "status": "InStock",
+    "type": "Productive"
+  },
+  {
+    "id": 2,
+    "name": "Harvesting Tool",
+    "description": "Essential tool for harvesting crops.",
+    "image": "https://via.placeholder.com/150",
+    "status": "OutStock",
+    "type": "Harvestive"
+  },
+  {
+    "id": 3,
+    "name": "Packaging Box",
+    "description": "Eco-friendly packaging for farm produce.",
+    "image": "https://via.placeholder.com/150",
+    "status": "UnActived",
+    "type": "Packaging"
+  },
+  {
+    "id": 4,
+    "name": "Quality Inspection Kit",
+    "description": "Used for inspecting the quality of crops.",
+    "image": "https://via.placeholder.com/150",
+    "status": "InStock",
+    "type": "Inspecting"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Soil Moisture Sensor",
+    "status": "active",
+    "real_time_data": {
+      "timestamp": "2025-01-04T10:00:00Z",
+      "data": {
+        "moisture_level": "45%",
+        "temperature": "22°C",
+        "humidity": "60%"
+      }
+    },
+    "actions": [
+      {
+        "action": "register",
+        "description": "Register this device."
+      },
+      {
+        "action": "update",
+        "description": "Update device details."
+      },
+      {
+        "action": "unregister",
+        "description": "Unregister this device."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Weather Station",
+    "status": "inactive",
+    "real_time_data": {
+      "timestamp": null,
+      "data": {}
+    },
+    "actions": [
+      {
+        "action": "register",
+        "description": "Register this device."
+      },
+      {
+        "action": "update",
+        "description": "Update device details."
+      },
+      {
+        "action": "unregister",
+        "description": "Unregister this device."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Water Pump Controller",
+    "status": "active",
+    "real_time_data": {
+      "timestamp": "2025-01-04T10:05:00Z",
+      "data": {
+        "status": "on",
+        "flow_rate": "15 L/min"
+      }
+    },
+    "actions": [
+      {
+        "action": "register",
+        "description": "Register this device."
+      },
+      {
+        "action": "update",
+        "description": "Update device details."
+      },
+      {
+        "action": "unregister",
+        "description": "Unregister this device."
+      }
+    ]
+  },
+  {
+    "name": "Le Quoc Khanh",
+    "status": "VIP",
+    "id": 4
+  }
+]

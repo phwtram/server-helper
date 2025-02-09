@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "name": "bfarm-fake-server",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "start": "bun fake-server/serve.ts"
+  },
+  "type": "module"
+}

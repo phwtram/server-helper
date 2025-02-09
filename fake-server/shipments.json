@@ -1,0 +1,13 @@
+[
+  {
+    "product": "Rice",
+    "quantity": 1000,
+    "status": "In Transit",
+    "qrCode": "data:image/png;base64,..."
+  },
+  {
+    "product": "Wheat",
+    "quantity": 800,
+    "status": "Pending"
+  }
+]

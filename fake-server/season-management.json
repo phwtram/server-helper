@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Spring 2025",
+    "currentPhase": "Planting",
+    "startDate": "2025-03-01",
+    "endDate": "2025-06-30",
+    "cropDetails": {
+      "type": "Wheat",
+      "area": 20.0,
+      "iotDevices": ["Sensor 01", "Sensor 02"]
+    },
+    "phases": ["Preparation", "Planting", "Maintenance", "Harvest"],
+    "plans": {
+      "watering": "Weekly",
+      "fertilizing": "Bi-weekly",
+      "pesticides": "As needed",
+      "manualTasks": "Weeding"
+    },
+    "qrCode": "data:image/png;base64,..."
+  }
+]
