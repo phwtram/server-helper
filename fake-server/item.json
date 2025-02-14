@@ -27,8 +27,161 @@
     "id": 4,
     "name": "Quality Inspection Kit",
     "description": "Used for inspecting the quality of crops.",
-    "image": "https://via.placeholder.com/150",
+    "image": [
+      {
+        "uid": "rc-upload-1739459280466-5",
+        "lastModified": 1731545757985,
+        "lastModifiedDate": "2024-11-14T00:55:57.985Z",
+        "name": "tải xuống (4).jpg",
+        "size": 13782,
+        "type": "image/jpeg",
+        "percent": 0,
+        "originFileObj": {
+          "uid": "rc-upload-1739459280466-5"
+        },
+        "error": {
+          "isTrusted": true
+        },
+        "status": "error"
+      }
+    ],
     "status": "InStock",
     "type": "Inspecting"
+  },
+  {
+    "image": [
+      {
+        "uid": "rc-upload-1739459280466-5",
+        "lastModified": 1731545757985,
+        "lastModifiedDate": "2024-11-14T00:55:57.985Z",
+        "name": "tải xuống (4).jpg",
+        "size": 13782,
+        "type": "image/jpeg",
+        "percent": 0,
+        "originFileObj": {
+          "uid": "rc-upload-1739459280466-5"
+        },
+        "error": {
+          "isTrusted": true
+        },
+        "status": "error"
+      }
+    ],
+    "name": "ádsa111",
+    "description": "sadsa",
+    "status": "UnActived",
+    "type": "Productive",
+    "id": 5
+  },
+  {
+    "image": [
+      {
+        "uid": "rc-upload-1739462264676-5",
+        "lastModified": 1731545767503,
+        "lastModifiedDate": "2024-11-14T00:56:07.503Z",
+        "name": "tải xuống (6).jpg",
+        "size": 9802,
+        "type": "image/jpeg",
+        "percent": 0,
+        "originFileObj": {
+          "uid": "rc-upload-1739462264676-5"
+        },
+        "error": {
+          "isTrusted": true
+        },
+        "status": "error"
+      }
+    ],
+    "name": "đasa",
+    "description": "ádsad",
+    "status": "InStock",
+    "type": "Productive",
+    "id": 6
+  },
+  {
+    "image": [
+      {
+        "uid": "rc-upload-1739508461316-11",
+        "lastModified": 1731545762725,
+        "lastModifiedDate": "2024-11-14T00:56:02.725Z",
+        "name": "tải xuống (5).jpg",
+        "size": 14718,
+        "type": "image/jpeg",
+        "percent": 0,
+        "originFileObj": {
+          "uid": "rc-upload-1739508461316-11"
+        },
+        "error": {
+          "isTrusted": true
+        },
+        "status": "error"
+      }
+    ],
+    "name": "string111",
+    "description": "123",
+    "status": "InStock",
+    "type": "Harvestive",
+    "id": 7
+  },
+  {
+    "image": [
+      {
+        "uid": "rc-upload-1739509662363-21"
+      }
+    ],
+    "name": "string1222",
+    "description": "sads",
+    "status": "InStock",
+    "type": "Productive",
+    "id": 8
+  },
+  {
+    "image": [
+      {
+        "name": "tải xuống (7).jpg",
+        "uid": "rc-upload-1739510441591-5",
+        "originFileObj": {
+          "uid": "rc-upload-1739510441591-5"
+        }
+      }
+    ],
+    "name": "sssss",
+    "description": "ssss",
+    "status": "OutStock",
+    "type": "Packaging",
+    "id": 9
+  },
+  {
+    "image": [
+      {
+        "name": "tải xuống (3).jpg",
+        "uid": "rc-upload-1739511263389-5",
+        "originFileObj": {
+          "uid": "rc-upload-1739511263389-5"
+        },
+        "url": "http://localhost:3001/uploads/tải xuống (3).jpg"
+      }
+    ],
+    "name": "ssss111",
+    "description": "ssssss",
+    "status": "OutStock",
+    "type": "Packaging",
+    "id": 11
+  },
+  {
+    "image": [
+      {
+        "name": "snapedit_1731526188149.png",
+        "uid": "rc-upload-1739511593530-5",
+        "originFileObj": {
+          "uid": "rc-upload-1739511593530-5"
+        }
+      }
+    ],
+    "name": "111",
+    "description": "111",
+    "status": "OutStock",
+    "type": "Harvestive",
+    "id": 12
   }
 ]
