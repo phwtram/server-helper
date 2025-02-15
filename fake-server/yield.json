@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Organic Yield",
+      "AreaUnit": "hectare",
+      "Area": 15.75,
+      "type": "Đất Mùn",
+      "description": "High-quality soil, rich in nutrients",
+      "isAvailable": "Available",
+      "size": "Large"
+    },
+    {
+      "id": 2,
+      "name": "Sandy Soil",
+      "AreaUnit": "acre",
+      "Area": 10.5,
+      "type": "Đất Thịt",
+      "description": "Well-draining, suitable for drought-resistant crops",
+      "isAvailable": "Unavailable",
+      "size": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Clay Soil",
+      "AreaUnit": "square meter",
+      "Area": 5000,
+      "type": "Đất Mùn",
+      "description": "Retains moisture, best for rice cultivation",
+      "isAvailable": "Available",
+      "size": "Small"
+    },
+    {
+      "id": 4,
+      "name": "Loamy Soil",
+      "AreaUnit": "hectare",
+      "Area": 20.2,
+      "type": "Đất Thịt",
+      "description": "Balanced mixture of sand, silt, and clay, great for farming",
+      "isAvailable": "Available",
+      "size": "Large"
+    },
+    {
+      "id": 5,
+      "name": "Peat Soil",
+      "AreaUnit": "acre",
+      "Area": 8.0,
+      "type": "Đất Mùn",
+      "description": "Rich in organic matter, retains water well",
+      "isAvailable": "Unavailable",
+      "size": "Medium"
+    }
+  ]
+  
