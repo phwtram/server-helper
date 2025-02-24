@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Bayer Confidor",
+    "description": "Thuốc trừ sâu hiệu quả cao, chuyên trị sâu rầy.",
+    "unit": "Lọ 120ml",
+    "image": "https://example.com/images/confidor.png",
+    "available_quantity": 15.5,
+    "total_quantity": 50,
+    "status": "InStock",
+    "type": "Insecticide"
+  },
+  {
+    "id": 2,
+    "name": "Anvil 5SC",
+    "description": "Thuốc trừ nấm phổ rộng, phòng trị bệnh đạo ôn.",
+    "unit": "Lọ 300ml",
+    "image": "https://example.com/images/anvil.png",
+    "available_quantity": 10,
+    "total_quantity": 30,
+    "status": "InStock",
+    "type": "Fungicide"
+  },
+  {
+    "id": 3,
+    "name": "Roundup",
+    "description": "Thuốc diệt cỏ không chọn lọc, diệt trừ tận gốc.",
+    "unit": "Lọ 500ml",
+    "image": "https://example.com/images/roundup.png",
+    "available_quantity": 0,
+    "total_quantity": 20,
+    "status": "OutStock",
+    "type": "Herbicide"
+  },
+  {
+    "id": 4,
+    "name": "Biopesticide X",
+    "description": "Thuốc bảo vệ thực vật sinh học, thân thiện môi trường.",
+    "unit": "Lọ 250ml",
+    "image": "https://example.com/images/biopesticide.png",
+    "available_quantity": 5,
+    "total_quantity": 15,
+    "status": "InStock",
+    "type": "Other"
+  },
+  {
+    "id": 5,
+    "name": "Agrimec",
+    "description": "Thuốc trừ sâu nhóm avermectin, hiệu quả cao.",
+    "unit": "Lọ 200ml",
+    "image": "https://example.com/images/agrimec.png",
+    "available_quantity": 3,
+    "total_quantity": 25,
+    "status": "InStock",
+    "type": "Insecticide"
+  },
+  {
+    "image": [
+      {
+        "uid": "rc-upload-1739797379364-5",
+        "lastModified": 1737468623396,
+        "lastModifiedDate": "2025-01-21T14:10:23.396Z",
+        "name": "phanbon.jpg",
+        "size": 1116184,
+        "type": "image/jpeg",
+        "percent": 0,
+        "originFileObj": {
+          "uid": "rc-upload-1739797379364-5"
+        },
+        "error": {
+          "isTrusted": true
+        },
+        "status": "error"
+      }
+    ],
+    "name": "test",
+    "description": "ssss2222",
+    "available_quantity": 2,
+    "total_quantity": 2,
+    "unit": "Lọ 120ml",
+    "status": "InStock",
+    "type": "Herbicide",
+    "id": 6
+  }
+]

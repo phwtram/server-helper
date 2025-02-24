@@ -18,7 +18,7 @@
     "PesticideUnit": "Litre",
     "MinBrixPoint": 6,
     "MaxBrixPoint": 10,
-    "GTTestKitColor": "Blue"
+    "GTTestKitColor": "Yellow"
   },
   {
     "id": 2,
@@ -63,27 +63,6 @@
     "GTTestKitColor": "Red"
   },
   {
-    "id": 4,
-    "name": "Rau Hữu Cơ",
-    "Description": "Hạt giống rau hữu cơ, không sử dụng phân bón hóa học và thuốc trừ sâu.",
-    "IsAvailable": false,
-    "MinTemp": 12,
-    "MaxTemp": 28,
-    "MinHumid": 50,
-    "MaxHumid": 85,
-    "MinMoisture": 11,
-    "MaxMoisture": 17,
-    "MinFertilizerQuantity": 2,
-    "MaxFertilizerQuantity": 6,
-    "FertilizerUnit": "Kg",
-    "MinPesticideQuantity": 0,
-    "MaxPesticideQuantity": 0.3,
-    "PesticideUnit": "Litre",
-    "MinBrixPoint": 6,
-    "MaxBrixPoint": 11,
-    "GTTestKitColor": "Orange"
-  },
-  {
     "name": "ádsa1112345",
     "Description": "sadsada",
     "IsAvailable": true,
@@ -99,5 +78,22 @@
     "MaxBrixPoint": 2,
     "GTTestKitColor": "Blue",
     "id": 5
+  },
+  {
+    "name": "1213",
+    "Description": "1233213213",
+    "IsAvailable": true,
+    "MinTemp": 2,
+    "MaxTemp": 22,
+    "MinHumid": 22,
+    "MaxHumid": 100,
+    "MinFertilizerQuantity": 2,
+    "MaxFertilizerQuantity": 22,
+    "MinPesticideQuantity": 2,
+    "MaxPesticideQuantity": 22,
+    "MinBrixPoint": 2,
+    "MaxBrixPoint": 22,
+    "GTTestKitColor": "Red",
+    "id": 6
   }
 ]
