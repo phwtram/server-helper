@@ -1,39 +1,38 @@
 [
-    {
-      "id": 1,
-      "accountID": "I123",
-      "address": "123 Main Street, City A",
-      "name": "Hokage",
-      "imageUrl": "https://example.com/images/john_doe.jpg",
-      "description": "Senior Inspector with 10 years of experience.",
-      "isAvailable": "Available"
-    },
-    {
-      "id": 2,
-      "accountID": "I234",
-      "address": "456 Elm Street, City B",
-      "name": "Mitsu",
-      "imageUrl": "https://example.com/images/jane_smith.jpg",
-      "description": "Expert in structural inspections.",
-      "isAvailable": "Unavailable"
-    },
-    {
-      "id": 3,
-      "accountID": "I897",
-      "address": "789 Oak Avenue, City C",
-      "name": "Maru",
-      "imageUrl": "https://example.com/images/michael_brown.jpg",
-      "description": "Specialist in electrical inspections.",
-      "isAvailable": "Available"
-    },
-    {
-      "id": 4,
-      "accountID": "I678",
-      "address": "101 Pine Lane, City D",
-      "name": "Ke",
-      "imageUrl": "https://example.com/images/emily_white.jpg",
-      "description": "Environmental safety inspector.",
-      "isAvailable": "Unavailable"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "accountID": "I123",
+    "address": "123 Main Street, City A",
+    "name": "Hokage",
+    "imageUrl": "https://example.com/images/john_doe.jpg",
+    "description": "Senior Inspector with 10 years of experience.",
+    "isAvailable": "Available"
+  },
+  {
+    "id": 2,
+    "accountID": "I234",
+    "address": "456 Elm Street, City B",
+    "name": "Mitsu",
+    "imageUrl": "https://example.com/images/jane_smith.jpg",
+    "description": "Expert in structural inspections.",
+    "isAvailable": "Unavailable"
+  },
+  {
+    "id": 3,
+    "accountID": "I897",
+    "address": "789 Oak Avenue, City C",
+    "name": "Maru",
+    "imageUrl": "https://example.com/images/michael_brown.jpg",
+    "description": "Specialist in electrical inspections.",
+    "isAvailable": "Available"
+  },
+  {
+    "id": 4,
+    "accountID": "I678",
+    "address": "101 Pine Lane, City D",
+    "name": "Ke",
+    "imageUrl": "https://example.com/images/emily_white.jpg",
+    "description": "Environmental safety inspector.",
+    "isAvailable": "Unavailable"
+  }
+]
